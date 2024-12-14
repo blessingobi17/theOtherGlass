@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/essential.jpg",
+    "header": "Essential",
+    "body": "The epitome of minimalist sophistication."
+  },
+  {
+    "id": 2,
+    "image": "assets/images/contour.jpg",
+    "header": "Contour",
+    "body": "The sleek yet powerful of the finest premium acetate."
+  },
+  {
+    "id": 3,
+    "image": "assets/images/border.jpg",
+    "header": "Border",
+    "body": "The balanced foundation of authenticity."
+  },
+  {
+    "id": 4,
+    "image": "assets/images/polygon.jpg",
+    "header": "Polygon",
+    "body": "The striking statement of bold geometric design."
+  },
+  {
+    "id": 5,
+    "image": "assets/images/classic.jpg",
+    "header": "Classic",
+    "body": "The timeless artistry of elegantly eclipsing fleeting trends."
+  },
+  {
+    "id": 6,
+    "image": "assets/images/edge.jpg",
+    "header": "Edge",
+    "body": "The purest and most refined depiction of self-expression."
+  },
+  {
+    "id": 7,
+    "image": "assets/images/angular.jpg",
+    "header": "Angular",
+    "body": "The power of wearable avant-garde with a titanium exoskeleton."
+  },
+  {
+    "id": 8,
+    "image": "assets/images/curve.jpg",
+    "header": "Curve",
+    "body": "The oversized, scultural piece of wearable art."
+  },
+  {
+    "id": 9,
+    "image": "assets/images/dual.jpg",
+    "header": "Dual",
+    "body": "The art of duality seamlessly fused into one timeless design."
+  },
+  {
+    "id": 10,
+    "image": "assets/images/aviator.jpg",
+    "header": "Aviator",
+    "body": "The pinnacle of timeless style and precision engineering."
+  },
+  {
+    "id": 11
+  }
+]
