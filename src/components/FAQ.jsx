@@ -25,16 +25,15 @@ const FAQ = () => {
                   : "border-b border-b-gray-300 "
               }`}
             >
-              <div className="flex justify-between items-center">
+              <div
+                onClick={() => handleClick(questions.id)}
+                className="flex justify-between items-center cursor-pointer"
+              >
                 <h3 className="lg:text-xl text-lg w-4/5 font-medium">
                   {questions.header}
                 </h3>
-                <button onClick={() => handleClick(questions.id)}>
-                  {openFaq === questions.id ? (
-                    <FaMinus className="cursor-pointer" />
-                  ) : (
-                    <FaPlus className="cursor-pointer" />
-                  )}
+                <button>
+                  {openFaq === questions.id ? <FaMinus /> : <FaPlus />}
                 </button>
               </div>
               <p
